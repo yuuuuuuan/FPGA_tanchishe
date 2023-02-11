@@ -1,0 +1,421 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -8.651
+TNS   : -720.003
+
+Type  : Slow 1100mV 85C Model Setup 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -5.020
+TNS   : -1303.395
+
+Type  : Slow 1100mV 85C Model Setup 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -4.614
+TNS   : -178.026
+
+Type  : Slow 1100mV 85C Model Setup 'rst'
+Slack : -3.762
+TNS   : -77.040
+
+Type  : Slow 1100mV 85C Model Setup 'IP_VGA_640X480:U3|clk_25M'
+Slack : -3.206
+TNS   : -83.057
+
+Type  : Slow 1100mV 85C Model Hold 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -3.976
+TNS   : -605.755
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -2.289
+TNS   : -134.452
+
+Type  : Slow 1100mV 85C Model Hold 'rst'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.750
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.769
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'ps2_deal_Model:U1|P_up'
+Slack : -5.473
+TNS   : -25.296
+
+Type  : Slow 1100mV 85C Model Recovery 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -2.020
+TNS   : -81.388
+
+Type  : Slow 1100mV 85C Model Recovery 'IP_VGA_640X480:U3|clk_25M'
+Slack : -1.003
+TNS   : -26.771
+
+Type  : Slow 1100mV 85C Model Recovery 'clk'
+Slack : -0.080
+TNS   : -0.144
+
+Type  : Slow 1100mV 85C Model Recovery 'rst'
+Slack : 0.792
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'rst'
+Slack : -2.110
+TNS   : -61.858
+
+Type  : Slow 1100mV 85C Model Removal 'clk'
+Slack : -1.257
+TNS   : -42.033
+
+Type  : Slow 1100mV 85C Model Removal 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.323
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 1.268
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'ps2_deal_Model:U1|P_up'
+Slack : 3.178
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -0.724
+TNS   : -321.847
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -233.597
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -0.724
+TNS   : -48.884
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'rst'
+Slack : -0.724
+TNS   : -38.896
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.724
+TNS   : -34.884
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'ps2_deal_Model:U1|P_up'
+Slack : -0.724
+TNS   : -6.261
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -8.626
+TNS   : -720.016
+
+Type  : Slow 1100mV 0C Model Setup 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -5.100
+TNS   : -1311.763
+
+Type  : Slow 1100mV 0C Model Setup 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -4.720
+TNS   : -182.481
+
+Type  : Slow 1100mV 0C Model Setup 'rst'
+Slack : -3.712
+TNS   : -74.127
+
+Type  : Slow 1100mV 0C Model Setup 'IP_VGA_640X480:U3|clk_25M'
+Slack : -3.075
+TNS   : -79.806
+
+Type  : Slow 1100mV 0C Model Hold 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -4.059
+TNS   : -659.725
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -2.162
+TNS   : -180.899
+
+Type  : Slow 1100mV 0C Model Hold 'rst'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.754
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.774
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'ps2_deal_Model:U1|P_up'
+Slack : -5.561
+TNS   : -26.039
+
+Type  : Slow 1100mV 0C Model Recovery 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -2.232
+TNS   : -89.955
+
+Type  : Slow 1100mV 0C Model Recovery 'IP_VGA_640X480:U3|clk_25M'
+Slack : -1.263
+TNS   : -33.805
+
+Type  : Slow 1100mV 0C Model Recovery 'clk'
+Slack : -0.149
+TNS   : -0.241
+
+Type  : Slow 1100mV 0C Model Recovery 'rst'
+Slack : 0.574
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'rst'
+Slack : -1.990
+TNS   : -56.454
+
+Type  : Slow 1100mV 0C Model Removal 'clk'
+Slack : -1.266
+TNS   : -39.122
+
+Type  : Slow 1100mV 0C Model Removal 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.748
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 1.619
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'ps2_deal_Model:U1|P_up'
+Slack : 3.410
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -0.724
+TNS   : -315.137
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -236.943
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -0.724
+TNS   : -48.227
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'rst'
+Slack : -0.724
+TNS   : -38.679
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.724
+TNS   : -34.651
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'ps2_deal_Model:U1|P_up'
+Slack : -0.724
+TNS   : -6.395
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.136
+TNS   : -238.992
+
+Type  : Fast 1100mV 85C Model Setup 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -1.913
+TNS   : -429.351
+
+Type  : Fast 1100mV 85C Model Setup 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -1.878
+TNS   : -66.007
+
+Type  : Fast 1100mV 85C Model Setup 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.849
+TNS   : -22.371
+
+Type  : Fast 1100mV 85C Model Setup 'rst'
+Slack : -0.838
+TNS   : -14.610
+
+Type  : Fast 1100mV 85C Model Hold 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -1.650
+TNS   : -273.130
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.966
+TNS   : -78.279
+
+Type  : Fast 1100mV 85C Model Hold 'rst'
+Slack : -0.118
+TNS   : -0.778
+
+Type  : Fast 1100mV 85C Model Hold 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.229
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'ps2_deal_Model:U1|P_up'
+Slack : -1.937
+TNS   : -8.581
+
+Type  : Fast 1100mV 85C Model Recovery 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -1.107
+TNS   : -44.628
+
+Type  : Fast 1100mV 85C Model Recovery 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.653
+TNS   : -17.575
+
+Type  : Fast 1100mV 85C Model Recovery 'clk'
+Slack : -0.443
+TNS   : -4.174
+
+Type  : Fast 1100mV 85C Model Recovery 'rst'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'rst'
+Slack : -0.918
+TNS   : -23.363
+
+Type  : Fast 1100mV 85C Model Removal 'clk'
+Slack : -0.791
+TNS   : -26.961
+
+Type  : Fast 1100mV 85C Model Removal 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.069
+TNS   : -1.771
+
+Type  : Fast 1100mV 85C Model Removal 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'ps2_deal_Model:U1|P_up'
+Slack : 1.089
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.448
+TNS   : -19.741
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'rst'
+Slack : -0.378
+TNS   : -11.991
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.145
+TNS   : -3.865
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'ps2_deal_Model:U1|P_up'
+Slack : -0.106
+TNS   : -0.417
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -0.026
+TNS   : -0.134
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -2.876
+TNS   : -206.217
+
+Type  : Fast 1100mV 0C Model Setup 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -1.802
+TNS   : -385.106
+
+Type  : Fast 1100mV 0C Model Setup 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -1.728
+TNS   : -59.781
+
+Type  : Fast 1100mV 0C Model Setup 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.727
+TNS   : -19.320
+
+Type  : Fast 1100mV 0C Model Setup 'rst'
+Slack : -0.726
+TNS   : -11.735
+
+Type  : Fast 1100mV 0C Model Hold 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : -1.661
+TNS   : -276.146
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.939
+TNS   : -90.359
+
+Type  : Fast 1100mV 0C Model Hold 'rst'
+Slack : -0.147
+TNS   : -1.173
+
+Type  : Fast 1100mV 0C Model Hold 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'ps2_deal_Model:U1|P_up'
+Slack : -1.811
+TNS   : -8.056
+
+Type  : Fast 1100mV 0C Model Recovery 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -1.164
+TNS   : -46.871
+
+Type  : Fast 1100mV 0C Model Recovery 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.762
+TNS   : -20.519
+
+Type  : Fast 1100mV 0C Model Recovery 'clk'
+Slack : -0.464
+TNS   : -4.818
+
+Type  : Fast 1100mV 0C Model Recovery 'rst'
+Slack : 0.026
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'rst'
+Slack : -0.813
+TNS   : -19.837
+
+Type  : Fast 1100mV 0C Model Removal 'clk'
+Slack : -0.794
+TNS   : -26.555
+
+Type  : Fast 1100mV 0C Model Removal 'IP_VGA_640X480:U3|clk_25M'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'ps2_deal_Model:U1|P_up'
+Slack : 1.067
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.454
+TNS   : -19.552
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'rst'
+Slack : -0.389
+TNS   : -13.315
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'IP_VGA_640X480:U3|clk_25M'
+Slack : -0.129
+TNS   : -3.449
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'ps2_deal_Model:U1|P_up'
+Slack : -0.069
+TNS   : -0.239
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|change'
+Slack : -0.010
+TNS   : -0.041
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Game_Main_Model:U2|Game_control:U1|temp'
+Slack : 0.093
+TNS   : 0.000
+
+------------------------------------------------------------
